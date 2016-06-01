@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebEnviromentCheck", "WebEnviromentCheck.vcproj", "{27B08388-7786-4321-8FAF-2C462F44F587}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{27B08388-7786-4321-8FAF-2C462F44F587}.Debug.ActiveCfg = Debug|Win32
+		{27B08388-7786-4321-8FAF-2C462F44F587}.Debug.Build.0 = Debug|Win32
+		{27B08388-7786-4321-8FAF-2C462F44F587}.Release.ActiveCfg = Release|Win32
+		{27B08388-7786-4321-8FAF-2C462F44F587}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
